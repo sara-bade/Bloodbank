@@ -1,0 +1,174 @@
+body{
+	font-family: arial,sans-serif;
+
+
+
+}
+
+#nav_wrapper{
+	padding: 17px;
+	height:50px;
+	width:100%;
+	background:#ccc;
+	opacity: 0.7;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -7px;
+
+
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+#nav_wrapper ul li{
+
+	list-style:none;
+display :inline;
+
+padding: 10px;
+margin-top: 90 px;
+opacity: 0.7;
+filter: alpha(opacity=70);
+}
+
+#nav_wrapper ul li:hover{
+	background: #ededed;
+	transition: all 0.45s;
+	opacity: 0.9;
+	filter: alpha(opacity=90);
+}
+#main {
+    width: 220px;
+    height: 300px;
+    border: 1px solid black;
+    display: -webkit-flex; /* Safari */
+    display: flex;
+}
+
+#main div {
+    -webkit-flex: 1;  /* Safari 6.1+ */
+    -ms-flex: 1;  /* IE 10 */
+    flex: 1;
+}
+
+.updon{
+  width:292px;
+  margin: 548px;
+  padding: 50px, 40px, 25px;
+  margin-top: 70px;
+  font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.donate{
+	width: 263px;
+	margin:22px auto;
+	padding: 2px;
+	border:0px #ccc;
+}
+
+.newdonor{
+	width: 240px;
+	margin: 509px;
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	padding: 50px, 40px, 25px;
+	margin-top: 70px;
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+
+}
+
+.searchby{
+  width: 310px;
+  border:1px #ccc;
+  margin: 50px auto;
+  margin-top: 70px;
+ font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ padding: 2px;
+ text-align: left;
+}
+
+.hospital{
+	width: 310px;
+	border:1px #ccc;
+	margin: 50px auto;
+	margin-top: 70px;
+ font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ padding: 2px;
+ text-align: left;
+ }
+
+ .inventory{
+	 width: 300px;
+	 border:1px #ccc;
+	 margin: 50px auto;
+	 margin-top: 70px;
+	 font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	padding: 2px;
+	text-align: left;
+ }
+
+ .updatedhospital{
+   width:378px;
+
+   margin: 492px;
+   padding: 50px, 40px, 25px;
+   margin-top: 70px;
+   font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+
+ }
+
+ .search{
+	 width: 240px;
+	 margin:22px auto;
+	 padding: 0px;
+
+}
+
+.staff{
+	width: 300px;
+	border:1px #ccc;
+	margin: 50px auto;
+	margin-top: 70px;
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ padding: 2px;
+ text-align: left;
+}
+
+.transaction{
+  width: 300px;
+  border:1px #ccc;
+  margin: 50px auto;
+  margin-top: 70px;
+ font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+ padding: 2px;
+ text-align: left;
+}
+
+.upprice{
+  width: 302px;
+  margin: 532px;
+
+  padding: 50px, 40px, 25px;
+  margin-top: 70px;
+  font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+
+  }
+
+	.upinvent{
+		width:382px;
+		margin: 532px;
+
+		padding: 50px, 40px, 25px;
+		margin-top: 70px;
+		font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	}
+
+	.usdnr{
+		width:292px;
+		margin: 538px;
+		padding: 50px, 40px, 25px;
+		margin-top: 70px;
+		font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	}
